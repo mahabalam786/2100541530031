@@ -1,0 +1,9 @@
+{
+  "companyName": "goMart",
+  "clientID": "268686c0-f85f-4b40-b315-ac35bdb5a3b7",
+  "clientSecret": "jjlHIOIwTctzJchg",
+  "ownerName": "Mahab Alam",
+  "ownerEmail": "mahabalam456@gmail.com",
+  "rollNo": "2100541530031"
+}
+
